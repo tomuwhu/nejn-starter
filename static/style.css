@@ -1,0 +1,27 @@
+* {
+    background-color: beige;
+    user-select: none;
+}
+h1 {
+    text-align: center;
+    color: rgb(58, 50, 50);
+    text-shadow: 1px 1px 3px gray;
+}
+div {
+    border: solid 1px black;
+    border-radius: 6px;
+    padding: 6px;
+    display: inline-block;
+    cursor: grabbing;
+}
+.lev {
+    background-color: aquamarine;
+    cursor: grabbing;
+}
+.katt {
+    background-color: rgb(99, 183, 155);
+    cursor: pointer;
+}
+#resp {
+    background-color: rgb(178, 192, 72);
+}
