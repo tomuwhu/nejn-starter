@@ -2,10 +2,13 @@
     background-color: beige;
     user-select: none;
 }
-h1 {
+h1, h5 {
     text-align: center;
-    color: rgb(58, 50, 50);
     text-shadow: 1px 1px 3px gray;
+    margin: 0px;
+}
+h1 {
+    color: rgb(58, 50, 50);
 }
 div {
     border: solid 1px black;
@@ -24,4 +27,8 @@ div {
 }
 #resp {
     background-color: rgb(178, 192, 72);
+}
+a {
+    text-decoration: none;
+    color:rgb(11, 64, 76);
 }
