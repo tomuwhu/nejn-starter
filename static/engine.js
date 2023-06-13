@@ -5,7 +5,7 @@ $(() => {
     $("body")
         .append(`
             <br>
-            <h1>Kutya</h1>
+            <h1>NEJN (NeDB - ExpressJS - JQueryUI - NodeJS) Starter</h1>
         `)
         .append(`<div class="lev">${
             Levenshtein("cica","picsa")
